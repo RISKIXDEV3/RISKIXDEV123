@@ -14,4 +14,4 @@ $ cd RISKIXDEV123
 
 $ git pull
 
-$ python riski.py
+$ python memekbusuk.py
